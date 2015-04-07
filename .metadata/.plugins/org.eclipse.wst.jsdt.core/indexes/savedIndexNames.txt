@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Rafael Arcanjo\Documents\GitHub\projeto_senac\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2264808342.index
+877440863.index
+2703879495.index
+3779749963.index
+3568194826.index
+1571822070.index
